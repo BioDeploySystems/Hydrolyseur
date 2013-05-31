@@ -1,0 +1,38 @@
+
+[Français]
+
+L'hydrolyseur est composé de deux principales parties. La Box et le Top.
+
+Méthode A :
+
+Utilisez les fichiers STL fournis avec les paramètres réglés pour une impression 3d avec les dimensions offertes par le Replicator2X de Makerbot.
+Suivant les possibilités offertes par votre imprimante 3d, en utilisant le même coefficient de redimensionnement sur toutes les pièces de l'hydrolyseur Open Source/Hardware.
+
+Méthode B :
+
+Réglez vos paramètres d'impression personnalisés en indiquant les possibilités d'impression maximales dans le fichier 3dprinter.scad.
+Ouvrez les fichiers nécessaires à imprimer avec OpenScad et générez vos propres fichiers d'impression .stl pour les utiliser ensuite dans le logiciel Makerware.
+Choisissez vos options d'impression dans le logiciel Makerware, puis générez un fichier .x3g.
+
+Bon courage à vous !
+
+
+
+
+[English/US]
+
+The hydrolyser is composed of two main parts. The Box and Top.
+
+Method A :
+
+Use the STL files provided with the set to a 3D printing with the dimensions provided by the Replicator2X of Makerbot parameters.
+Depending on the capabilities of your 3D printer, using the same scaling factor on all parts of the hydrolyser Open Source / Hardware.
+
+
+Method B :
+
+Set your custom settings indicating the maximum printing capabilities in 3dprinter.scad - file print settings.
+Open necessary files to print with OpenSCAD and generate your own print files .stl and then use them in Makerware software files.
+Select your printing options in Makerware software and generate a .X3g.
+
+Good luck to you !
