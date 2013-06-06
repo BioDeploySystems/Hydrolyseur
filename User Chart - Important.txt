@@ -5,7 +5,7 @@ Charte d'Utilisation :
 
 
 
-BSD 3 : CC-BY-NC-SA
+BSD 3 : Domaine Public
 
 Avant toute chose, assurez-vous que vous utilisez ces fichiers dans les contraintes indiquées par la Licence Creative Commons des fichiers du package et les Contrats de licence pour utilisateur final fournis.
 Vous n'êtes pas en droit d'utiliser ces fichiers en dehors des clauses d'utilisation.
@@ -37,7 +37,7 @@ Vous ne pouvez utiliser les fichiers et informations fournies sans accepter les 
 
 [English/US]
 
-BSD 3 : CC-BY-NC-SA
+BSD 3 : Public Domain
 
 agree with EULA
 
@@ -56,7 +56,7 @@ Never use fire source in the presence of your hydrolyser.
 
 Never use a bubbler hydrolyser without security to evacuate gasses generated.
 
-Never use electrical installation AC to power the electrodes (core) of your hydrolyser.
+Never use electrical installation AC/DC to power the electrodes (core) of your hydrolyser.
 
 You are responsible for using your hydrolyser in all situations and in all places. Remember that water conducts electricity, do not spill your hydrolyser are functioning is only possible advantage of the effects of gravity, and therefore should be placed horizontally on a stable surface and clear of any possibility of destabilization drive a flow of water.
 
